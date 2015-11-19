@@ -15,10 +15,9 @@ Prerequisite:
 
 ###On Server:###
 
-1. After you launch an instance, download vpn-installtion.sh into that instance.
-2. Update the **TODO** (IPSEC_PSK, VPN_USER, VPN_PASSWORD, PRIVATE_IP, PUBLIC_IP)
-3. run 
-<code>
+1. After you launch an instance, download <code>vpn-installtion.sh</code> into that instance.
+2. Update the **TODO** (<code>IPSEC_PSK</code>, <code>VPN_USER</code>, <code>VPN_PASSWORD</code>, <code>PRIVATE_IP</code>, <code>PUBLIC_IP</code>)
+3. run <code>
 	sudo sh vpn-installtion.sh
 </code>
 4. Setup the network.
@@ -34,6 +33,10 @@ Prerequisite:
 5. Click apply and connect.
 6. [Optional] Setup dns server. In DNS tab, you can copy values in <code>/etc/resolv.conf</code> of VPN Server and fill into **search domain**.
 
+
+-----
+
+Feel free to open issues.
 
 
 
