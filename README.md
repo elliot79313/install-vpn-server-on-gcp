@@ -30,7 +30,7 @@
 3. Click Authentication Settings. Fill in Machine Authentication Shared Secret with **IPSEC_PSK**
 4. Click advanced button and check **Send all traffic** on options tab.
 5. Click apply and connect.
-6. [Optional] Setup dns server. In DNS tab, you can copy values in <code>/etc/resolv.conf</code> of VPN Server and fill into **search domain**.
+6. [Optional] Setup dns server. In DNS tab, you can copy values in <code>/etc/resolv.conf</code> of VPN Server and update the **search domain** of client.
 
 
 -----
