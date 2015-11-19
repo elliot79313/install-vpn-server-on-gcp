@@ -1,6 +1,5 @@
 # Install VPN Server on Google Cloud platform (using Debian 7)
 
------
 
 ###Prerequisite:###
 1. You have Google account
