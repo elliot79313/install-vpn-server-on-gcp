@@ -4,7 +4,7 @@
 ###Prerequisite:###
 1. You have Google account
 2. You are familiar with [Google cloud platform console](https://console.developers.google.com "Google Cloud Platform Console").
-3. You know how to launch Google Computing VM with Debian 7. ([Quick Start](https://cloud.google.com/compute/docs/linux-quickstart, "Quick Start"))
+3. You know how to launch Google Computing VM with Debian 7. ([Quick Start](https://cloud.google.com/compute/docs/linux-quickstart "Quick Start"))
 
 
 -----
